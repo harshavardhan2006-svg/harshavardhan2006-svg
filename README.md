@@ -1,109 +1,208 @@
-# 👋 HEY, I'M HARSHA VARDHAN
+<div align="center">
 
-> 💥 B.Tech CSE Student
-> 💥 Blockchain Developer
-> 💥 Full Stack Developer
-> 💥 Building products, not just projects.
+# ⚡ HARSHA VARDHAN
 
----
-
-## ⚡ ABOUT ME
-
-┌─────────────────────────────────────────┐
-│ 🎓 B.Tech CSE (2023 - 2027)             │
-│ 📍 Andhra Pradesh, India                │
-│ 🏆 Aptos Hackathon 2nd Prize Winner     │
-│ 💰 Won $500 in Blockchain Competition   │
-│ 🚀 Interested in Startups & Web3        │
-└─────────────────────────────────────────┘
-
----
-
-## 🛠 TECH STACK
-
-### FRONTEND
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/NEXTJS-ffffff?style=for-the-badge)
-
-### BACKEND
-![NodeJS](https://img.shields.io/badge/NODEJS-00ff66?style=for-the-badge)
-![Express](https://img.shields.io/badge/EXPRESS-black?style=for-the-badge)
-
-### DATABASE
-![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge)
-
-### BLOCKCHAIN
-![Aptos](https://img.shields.io/badge/APTOS-black?style=for-the-badge)
-![Move](https://img.shields.io/badge/MOVE-blue?style=for-the-badge)
-
----
-
-## 🚧 CURRENTLY BUILDING
-
-□ Full Stack Applications
-
-□ Blockchain Products
-
-□ Open Source Projects
-
-□ Startup Ideas
-
----
-
-## 🏆 ACHIEVEMENTS
-
-🥈 Aptos Blockchain Hackathon
-
-💵 $500 Prize Winner
-
-🔥 Multiple Full Stack Projects
-
-🌱 Constantly Learning
-
----
-
-## 📊 GITHUB STATS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 💭 MY PHILOSOPHY
+### STUDENT ▪ BUILDER ▪ BLOCKCHAIN DEVELOPER ▪ FUTURE FOUNDER
 
 ```txt
-Build.
-Fail.
-Learn.
-Repeat.
+BOOTING HARSHA.EXE...
+████████████████████████████ 100%
 
-One successful product
-can change everything.
+STATUS      : ONLINE
+LOCATION    : INDIA
+MODE        : BUILDING
+MISSION     : CREATE THINGS PEOPLE USE
+```
+
+</div>
+
+---
+
+# WHO AM I?
+
+```txt
+┌──────────────────────────────────────────────┐
+│ NAME       : Harsha Vardhan                  │
+│ ROLE       : Full Stack Developer            │
+│ EDUCATION  : B.Tech CSE                      │
+│ CGPA       : 7.78                            │
+│ SPECIALTY  : Web3 + Full Stack + AI          │
+│ GOAL       : Build a Successful Startup      │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📫 CONNECT
+# CURRENT QUESTS
 
-LinkedIn: YOUR_LINKEDIN
+```txt
+[✓] Won Aptos Blockchain Hackathon
 
-Email: YOUR_EMAIL
+[✓] Built Decentralized Applications
 
-Portfolio: Coming Soon 🚀
+[✓] Full Stack Development
+
+[ ] Launch Startup
+
+[ ] 100K Users
+
+[ ] Financial Freedom
+
+[ ] Build Something Legendary
+```
 
 ---
 
-# ⚠️ WARNING
+# TECH ARSENAL
 
-This profile may contain:
+### FRONTEND
 
-☑ Startups
+```txt
+React
+Next.js
+JavaScript
+Bootstrap
+HTML
+CSS
+```
 
-☑ Crazy Ideas
+### BACKEND
 
-☑ Blockchain Experiments
+```txt
+Java
+Spring Boot
+Node.js
+Express.js
+REST APIs
+```
 
-☑ Late Night Coding Sessions
+### DATABASES
 
-☑ Future Unicorn Products
+```txt
+MongoDB
+MySQL
+Oracle
+```
+
+### BLOCKCHAIN
+
+```txt
+Aptos
+Move
+Web3
+Smart Contracts
+```
+
+---
+
+# FEATURED PROJECTS
+
+## 🕰 Decentralized Time Capsule
+
+```txt
+A blockchain application built on Aptos
+allowing users to store messages for
+future release.
+
+RESULT:
+Won 2nd Prize in Aptos Hackathon.
+```
+
+---
+
+## 🌊 NorthernSea
+
+```txt
+Modern Social Media Platform
+
+Inspired by Instagram
+Built with React Native
+Focused on clean user experience
+```
+
+---
+
+## 🎵 Axolotl Music Network
+
+```txt
+Spotify Inspired Music Streaming Platform
+
+Features:
+• Music Streaming
+• Real Time Chat
+• Admin Dashboard
+• Activity Tracking
+```
+
+---
+
+# DEVELOPER STATS
+
+```txt
+COFFEE      ██████████ 100%
+
+BUGS        ██████████ 100%
+
+SLEEP       ██░░░░░░░░ 20%
+
+MOTIVATION  ██████████ 100%
+
+CODING      ██████████ 100%
+```
+
+---
+
+# MY PHILOSOPHY
+
+```txt
+Most people consume.
+
+Some people create.
+
+I want to build products
+that outlive me.
+```
+
+---
+
+# SYSTEM LOG
+
+```txt
+2023 > Started Engineering
+
+2024 > Learned Full Stack Development
+
+2025 > Entered Blockchain Development
+
+2025 > Won Aptos Hackathon
+
+2026 > Building Bigger Things
+
+???? > Startup Founder
+```
+
+---
+
+# CONNECT
+
+```txt
+GitHub   : https://github.com/YOUR_USERNAME
+
+LinkedIn : https://linkedin.com/in/YOUR_LINK
+
+Email    : yourmail@gmail.com
+```
+
+---
+
+<div align="center">
+
+# 🚧 UNDER CONSTRUCTION
+
+Currently turning ideas into products.
+
+If you're reading this,
+
+GO BUILD SOMETHING.
+
+</div>
