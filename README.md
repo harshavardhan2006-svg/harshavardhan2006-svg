@@ -385,15 +385,6 @@ Firebase
 
 ---
 
-# 🏆 TROPHY ROOM
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshavardhan2006-svg&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
 
 # 🐍 MOB FARM
 
