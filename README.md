@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=LOADING+WORLD...;WELCOME+TO+HARSHA+SMP;FULLSTACK+DEVELOPER;BLOCKCHAIN+BUILDER;STARTUP+FOUNDER+IN+PROGRESS;BUILDING+THE+FUTURE" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=LOADING+WORLD...;WELCOME+TO+HARSHA+SMP;FULLSTACK+DEVELOPER;BLOCKCHAIN+BUILDER;BUILDING+THE+FUTURE" />
 
 <br>
 
