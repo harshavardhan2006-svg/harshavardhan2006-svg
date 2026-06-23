@@ -300,69 +300,151 @@ Linux
 
 ---
 
+# 🏗 BUILDS
+
+## 🎵 AXOLOTL MUSIC NETWORK
+
+TYPE      : MUSIC KINGDOM
+
+STATUS    : COMPLETED
+
+Spotify-inspired music streaming platform built with a modern full-stack architecture.
+
+FEATURES
+
+• Music Streaming
+
+• Album & Playlist Support
+
+• Queue Management
+
+• Real-Time Activity Tracking
+
+• Admin Dashboard
+
+• User Authentication
+
+• Live User Interaction
+
+STACK
+
+React
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Socket.io
+
+JavaScript
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## ⛓ DECENTRALIZED TIME CAPSULE
 
-```txt
 TYPE      : REDSTONE MACHINE
 
 STATUS    : COMPLETED
 
-Store messages today.
+Store messages today and unlock them in the future using blockchain technology.
 
-Unlock them years later.
+FEATURES
 
-Powered by blockchain.
+• Time Locked Messages
 
-STACK:
+• Wallet Authentication
+
+• Immutable Storage
+
+• Decentralized Architecture
+
+• Smart Contract Integration
+
+STACK
 
 Aptos
+
 Move
+
 JavaScript
+
 IPFS
-Wallet Integration
 
-RESULT:
+Wallet Adapter
 
-🥈 Aptos Hackathon Winner
-```
+RESULT
 
----
+🥈 Aptos Blockchain Hackathon
+
+Won 2nd Prize ($500)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📱 MOBILE APP ADDICTION ANALYZER
 
-```txt
 TYPE      : ENCHANTMENT TABLE
 
 STATUS    : COMPLETED
 
-Machine Learning system that predicts
-smartphone addiction patterns.
+Machine learning system for analyzing and predicting smartphone addiction patterns.
 
-STACK:
+FEATURES
+
+• Addiction Prediction
+
+• Behaviour Analysis
+
+• Data Visualization
+
+• User Insights
+
+• Classification Models
+
+STACK
 
 Python
-Scikit-Learn
-Pandas
-NumPy
-Streamlit
-```
 
----
+Scikit-Learn
+
+Pandas
+
+NumPy
+
+Streamlit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🌊 NORTHERNSEA
 
-```txt
 TYPE      : SOCIAL HUB
 
 STATUS    : ACTIVE
 
-Modern social platform inspired by Instagram.
+Modern social networking platform inspired by Instagram.
 
-STACK:
+FEATURES
+
+• User Profiles
+
+• Posts & Feeds
+
+• Social Interactions
+
+• Mobile-First Experience
+
+• Modern UI
+
+STACK
 
 React Native
+
 Expo
+
 Firebase
+
+JavaScript
 ```
 
 ---
