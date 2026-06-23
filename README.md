@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff88,50:00aaff,100:0044ff&text=HARSHAVARDHAN%20KONDAVETI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULLSTACK%20DEVELOPER%20•%20BLOCKCHAIN%20BUILDER%20•%20STARTUP%20FOUNDER&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff88,50:00aaff,100:0044ff&text=HARSHAVARDHAN%20KONDAVETI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULLSTACK%20DEVELOPER%20•%20BLOCKCHAIN%20BUILDER&descAlignY=60"/>
 
 <br>
 
