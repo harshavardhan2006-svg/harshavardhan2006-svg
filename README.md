@@ -84,32 +84,45 @@ Top 5 College Finalist
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,firebase,oracle,docker,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp,react,nodejs,express,spring,mongodb,mysql,oracle,firebase,docker,aws,linux,git" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,react" />
 
 </div>
 
-<br>
+---
 
 ```txt
 BLOCKCHAIN
 
 ▣ Aptos
+
 ▣ Move
+
 ▣ Web3
 
-MOBILE
+━━━━━━━━━━━━━━━━━━━━
+
+MOBILE DEVELOPMENT
 
 ▣ React Native
+
 ▣ Expo
 
-AI / ML
+━━━━━━━━━━━━━━━━━━━━
+
+MACHINE LEARNING
 
 ▣ Python
-▣ Scikit Learn
-▣ Pandas
-▣ NumPy
-```
 
+▣ Pandas
+
+▣ NumPy
+
+▣ Scikit-Learn
+```
 ---
 
 # 🏗 BUILDS
