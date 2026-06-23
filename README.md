@@ -1,474 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff88,50:00aaff,100:0044ff&text=HARSHAVARDHAN%20KONDAVETI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULLSTACK%20DEVELOPER%20•%20BLOCKCHAIN%20BUILDER&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=ff0040"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=LOADING+WORLD...;WELCOME+TO+HARSHA+SMP;FULLSTACK+DEVELOPER;BLOCKCHAIN+BUILDER;BUILDING+THE+FUTURE" />
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗ 
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗
+███████║███████║██████╔╝███████╗███████║███████║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0095ff"/>
 
-<img src="https://komarev.com/ghpvc/?username=harshavardhan2006-svg&style=for-the-badge&color=00ff88"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2000&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=FULLSTACK+BUILDER;BLOCKCHAIN+NATIVE;WEB3+%2B+PRODUCT+%2B+ML;PVPSIT+CSE;KEEP+BUILDING." />
+
+<br/>
+
+![](https://img.shields.io/badge/STATUS-BUILDING-ff0040?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/CLASS-FULLSTACK%20BUILDER-0095ff?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/🏆%20PRIZE-%24500%20WON-ffd700?style=for-the-badge&labelColor=0a0a0a)
+[![](https://komarev.com/ghpvc/?username=harshavardhan2006-svg&style=for-the-badge&color=ff0040&label=VISITORS)](https://github.com/harshavardhan2006-svg)
 
 </div>
 
 ---
-
-# 🌎 WORLD INFO
-
-```txt
-WORLD NAME    : HARSHA SMP
-
-PLAYER        : HARSHAVARDHAN KONDAVETI
-
-CLASS         : FULLSTACK BUILDER
-
-FACTION       : PVPSIT CSE
-
-STATUS        : BUILDING
-
-MOTIVATION    : Currency + Curiosity
-
-OBJECTIVE     : Build Something Legendary
-```
-
----
-
-# ⛏ ABOUT
-
-```txt
-I enjoy building things.
-
-From blockchain applications
-to full stack products
-to machine learning systems.
-
-Currently focused on:
-
-→ Full Stack Development
-
-→ Product Building
-
-→ Blockchain Technology
-
-→ Startup Creation
-
-I don't collect tutorials.
-
-I build.
-```
-
----
-
-# 🏆 ACHIEVEMENTS
-
-```txt
-╔══════════════════════════════════════╗
-║ ACHIEVEMENT UNLOCKED                 ║
-╚══════════════════════════════════════╝
-
-🥈 Aptos Blockchain Hackathon
-
-Reward : $500
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚛ Quantum Valley Hackathon
-
-Top 5 College Finalist
-```
-
----
-
-# ⚔ TECH ARSENAL
-
-<table>
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=java" width="35"/>
-
-**Java**
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=javascript" width="35"/>
-
-**JavaScript**
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=python" width="35"/>
-
-**Python**
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=c" width="35"/>
-
-**C**
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=cpp" width="35"/>
-
-**C++**
-
-</td>
-
-</tr>
-</table>
-
----
-
-### FRONTEND
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
-React
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
-HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
-CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
-Bootstrap
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
-React Native
-</td>
-
-</tr>
-</table>
-
----
-
-### BACKEND
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
-Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
-Express
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>
-Spring Boot
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flask" width="40"/><br>
-Flask
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>
-FastAPI
-</td>
-
-</tr>
-</table>
-
----
-
-### DATABASES
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
-MongoDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
-MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>
-PostgreSQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="40"/><br>
-Firebase
-</td>
-
-</tr>
-</table>
-
----
-
-### BLOCKCHAIN
-
-<table>
-<tr>
-
-<td align="center">
-
-⛓️
-
-<br>
-
-Aptos
-
-</td>
-
-<td align="center">
-
-⚡
-
-<br>
-
-Move
-
-</td>
-
-<td align="center">
-
-🌐
-
-<br>
-
-Web3
-
-</td>
-
-</tr>
-</table>
-
----
-
-### TOOLS
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
-Docker
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="40"/><br>
-AWS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>
-Linux
-</td>
-
-</tr>
-</table>
-```
-
----
-
-# 🏗 BUILDS
-
-## 🎵 AXOLOTL MUSIC NETWORK
-
-TYPE      : MUSIC KINGDOM
-
-STATUS    : COMPLETED
-
-Spotify-inspired music streaming platform built with a modern full-stack architecture.
-
-FEATURES
-
-• Music Streaming
-
-• Album & Playlist Support
-
-• Queue Management
-
-• Real-Time Activity Tracking
-
-• Admin Dashboard
-
-• User Authentication
-
-• Live User Interaction
-
-STACK
-
-React
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Socket.io
-
-JavaScript
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ⛓ DECENTRALIZED TIME CAPSULE
-
-TYPE      : REDSTONE MACHINE
-
-STATUS    : COMPLETED
-
-Store messages today and unlock them in the future using blockchain technology.
-
-FEATURES
-
-• Time Locked Messages
-
-• Wallet Authentication
-
-• Immutable Storage
-
-• Decentralized Architecture
-
-• Smart Contract Integration
-
-STACK
-
-Aptos
-
-Move
-
-JavaScript
-
-IPFS
-
-Wallet Adapter
-
-RESULT
-
-🥈 Aptos Blockchain Hackathon
-
-Won 2nd Prize ($500)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 📱 MOBILE APP ADDICTION ANALYZER
-
-TYPE      : ENCHANTMENT TABLE
-
-STATUS    : COMPLETED
-
-Machine learning system for analyzing and predicting smartphone addiction patterns.
-
-FEATURES
-
-• Addiction Prediction
-
-• Behaviour Analysis
-
-• Data Visualization
-
-• User Insights
-
-• Classification Models
-
-STACK
-
-Python
-
-Scikit-Learn
-
-Pandas
-
-NumPy
-
-Streamlit
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🌊 NORTHERNSEA
-
-TYPE      : SOCIAL HUB
-
-STATUS    : ACTIVE
-
-Modern social networking platform inspired by Instagram.
-
-FEATURES
-
-• User Profiles
-
-• Posts & Feeds
-
-• Social Interactions
-
-• Mobile-First Experience
-
-• Modern UI
-
-STACK
-
-React Native
-
-Expo
-
-Firebase
-
-JavaScript
-```
-
----
-
-# 📊 PLAYER STATS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshavardhan2006-svg&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan2006-svg&theme=chartreuse-dark&hide_border=true"/>
+| WORLD NAME | PLAYER | CLASS | FACTION | STATUS |
+|:---:|:---:|:---:|:---:|:---:|
+| HARSHA SMP | HARSHAVARDHAN KONDAVETI | FULLSTACK BUILDER | PVPSIT CSE | 🔴 BUILDING |
 
 </div>
 
 ---
 
-# 📈 WORLD ACTIVITY
+## 👾 About
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan2006-svg&bg_color=0d1117&color=00ff88&line=00aaff&point=ffffff&area=true&hide_border=true"/>
+I enjoy building things — from blockchain applications to full stack products to machine learning systems.
+
+**Currently focused on:**
+
+- **Full Stack Development** — shipping real products, not tutorials
+- **Blockchain Technology** — Aptos, Move, Web3
+- **Product Building** — ideas → deployed, fast
+- **Startup Creation** — the end game
+
+> I don't collect tutorials. I build.
 
 ---
 
+## 🏆 Achievements
 
-# 🐍 MOB FARM
+<div align="center">
+
+| | Hackathon | Result | Prize |
+|:---:|:---|:---:|:---:|
+| 🥈 | **Aptos Blockchain Hackathon** — Decentralized Time Capsule | 2nd Place | ![](https://img.shields.io/badge/-$500-ffd700?style=flat-square&labelColor=1a1a1a) |
+| ⚛️ | **Quantum Valley Hackathon** | Top 5 Finalist | ![](https://img.shields.io/badge/-Elite%20Tier-0095ff?style=flat-square&labelColor=1a1a1a) |
+
+</div>
+
+---
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ff0040?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-0095ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a)
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black&labelColor=0a0a0a)
+![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=0a0a0a)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0095ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a)
+![React Native](https://img.shields.io/badge/React_Native-0095ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a)
+![HTML5](https://img.shields.io/badge/HTML5-ff0040?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a)
+![CSS3](https://img.shields.io/badge/CSS3-0095ff?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=0a0a0a)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-00cc44?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a)
+![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=black&labelColor=0a0a0a)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00cc44?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0a0a)
+![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black&labelColor=0a0a0a)
+![FastAPI](https://img.shields.io/badge/FastAPI-00cc44?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0a)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-00cc44?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0a0a)
+![MySQL](https://img.shields.io/badge/MySQL-0095ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0095ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a)
+![Firebase](https://img.shields.io/badge/Firebase-ffd700?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0a0a0a)
+
+**Blockchain**
+
+![Aptos](https://img.shields.io/badge/Aptos-ff0040?style=for-the-badge&logoColor=white&labelColor=0a0a0a)
+![Move](https://img.shields.io/badge/Move_Lang-ff0040?style=for-the-badge&logoColor=white&labelColor=0a0a0a)
+![Web3](https://img.shields.io/badge/Web3-0095ff?style=for-the-badge&logoColor=white&labelColor=0a0a0a)
+![IPFS](https://img.shields.io/badge/IPFS-0095ff?style=for-the-badge&logo=ipfs&logoColor=white&labelColor=0a0a0a)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-ff0040?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-0095ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a)
+![AWS](https://img.shields.io/badge/AWS-ffd700?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=0a0a0a)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a)
+
+</div>
+
+---
+
+## 🏗️ Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Axolotl Music Network
+![](https://img.shields.io/badge/TYPE-Music%20Platform-ff0040?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/STATUS-Completed-00cc44?style=flat-square&labelColor=0a0a0a)
+
+Spotify-inspired music streaming platform with real-time activity tracking, live user interactions, and a full admin dashboard.
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Decentralized Time Capsule
+![](https://img.shields.io/badge/TYPE-Blockchain%20App-0095ff?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/🥈%20-$500%20Prize-ffd700?style=flat-square&labelColor=0a0a0a)
+
+Store messages today, unlock them in the future using blockchain. Immutable, trustless, on-chain. **Won 2nd at Aptos Hackathon.**
+
+**Stack:** `Aptos` `Move` `IPFS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Addiction Analyzer
+![](https://img.shields.io/badge/TYPE-ML%20System-ffd700?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/STATUS-Completed-00cc44?style=flat-square&labelColor=0a0a0a)
+
+ML system for analyzing and predicting smartphone addiction patterns — behavior classification, insights, and data visualization.
+
+**Stack:** `Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 NorthernSea
+![](https://img.shields.io/badge/TYPE-Social%20Platform-0095ff?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/STATUS-Active-ff0040?style=flat-square&labelColor=0a0a0a)
+
+Modern social networking platform — Instagram-inspired, mobile-first, currently live and growing.
+
+**Stack:** `React Native` `Expo` `Firebase` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshavardhan2006-svg&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=ff0040&icon_color=0095ff&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan2006-svg&theme=chartreuse-dark&hide_border=true&ring=ff0040&fire=ff0040&currStreakLabel=0095ff&background=0d1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan2006-svg&bg_color=0d1117&color=ff0040&line=0095ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -478,79 +201,52 @@ JavaScript
 
 ---
 
-# 🎮 PLAYER PROFILE
+## 🎯 End Game
 
-```txt
-FAVORITE GAME
+<div align="center">
 
-███╗   ███╗██╗███╗   ██╗███████╗
-████╗ ████║██║████╗  ██║██╔════╝
-██╔████╔██║██║██╔██╗ ██║█████╗
-██║╚██╔╝██║██║██║╚██╗██║██╔══╝
-██║ ╚═╝ ██║██║██║ ╚████║███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
+| | Goal |
+|:---:|:---|
+| ☐ | Build a startup |
+| ☐ | Launch products used by millions |
+| ☐ | Create real impact |
+| ☐ | Change my family's future |
+| ☐ | Leave a mark on the internet |
 
-Building Worlds.
-
-Building Products.
-
-Same Thing.
-```
+</div>
 
 ---
 
-# 💭 PHILOSOPHY
+## 🌐 Connect
 
-> "The best way to predict the future is to build it."
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshavardhan2006-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0095ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/harshavardhan-kondaveti2006)
+[![Email](https://img.shields.io/badge/Email-ff0040?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:harshavardhankondaveti1@gmail.com)
 
-# 🎯 END GAME
-
-```txt
-[ ] Build a startup
-
-[ ] Launch products used by millions
-
-[ ] Create real impact
-
-[ ] Change my family's future
-
-[ ] Leave a mark on the internet
-```
-
----
-
-# 🌐 PORTALS
-
-### GitHub
-
-github.com/harshavardhan2006-svg
-
-### LinkedIn
-
-linkedin.com/in/harshavardhan-kondaveti2006
-
-### Email
-
-[harshavardhankondaveti1@gmail.com](mailto:harshavardhankondaveti1@gmail.com)
+</div>
 
 ---
 
 <div align="center">
 
-```txt
-DAY 1
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,2,5,30"/>
 
-Punch Tree.
+<br/>
 
-DAY 1000
-
-Build Empire.
+```
+DAY 1    →  PUNCH TREE.
+DAY 1000 →  BUILD EMPIRE.
 ```
 
-### ⛏ KEEP BUILDING.
+### `⛏ KEEP BUILDING.`
+
+![](https://img.shields.io/badge/HARSHA_SMP-SEASON_01-ff0040?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/CURRENCY_+_CURIOSITY-0095ff?style=for-the-badge&labelColor=0a0a0a)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=30,5,2,2,0"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ff88,50:00aaff,100:0044ff"/>
