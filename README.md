@@ -1,18 +1,14 @@
 <div align="center">
 
-# ⛏️ HARSHAVARDHAN KONDAVETI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff88,50:00aaff,100:0044ff&text=HARSHAVARDHAN%20KONDAVETI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=FULLSTACK%20DEVELOPER%20•%20BLOCKCHAIN%20BUILDER%20•%20STARTUP%20FOUNDER&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=55FF55&center=true&vCenter=true&width=1000&lines=LOADING+WORLD...;FULLSTACK+DEVELOPER;BLOCKCHAIN+BUILDER;STARTUP+FOUNDER+IN+PROGRESS;WELCOME+TO+MY+WORLD" />
+<br>
 
-```
-█████████████████████████████████████
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=LOADING+WORLD...;WELCOME+TO+HARSHA+SMP;FULLSTACK+DEVELOPER;BLOCKCHAIN+BUILDER;STARTUP+FOUNDER+IN+PROGRESS;BUILDING+THE+FUTURE" />
 
-      SURVIVAL MODE : ON
+<br>
 
-█████████████████████████████████████
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshavardhan2006-svg\&style=for-the-badge\&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=harshavardhan2006-svg&style=for-the-badge&color=00ff88"/>
 
 </div>
 
@@ -23,47 +19,43 @@
 ```txt
 WORLD NAME    : HARSHA SMP
 
-PLAYER        : HARSHAVARDHAN
+PLAYER        : HARSHAVARDHAN KONDAVETI
 
 CLASS         : FULLSTACK BUILDER
 
 FACTION       : PVPSIT CSE
 
-LEVEL         : GRINDING
+STATUS        : BUILDING
 
-DIFFICULTY    : HARD
+MOTIVATION    : Currency + Curiosity
 
-OBJECTIVE     : BUILD SOMETHING LEGENDARY
+OBJECTIVE     : Build Something Legendary
 ```
 
 ---
 
-# 🎒 INVENTORY
+# ⛏ ABOUT
 
 ```txt
-[⚔] Java
+I enjoy building things.
 
-[⚔] JavaScript
+From blockchain applications
+to full stack products
+to machine learning systems.
 
-[⚔] TypeScript
+Currently focused on:
 
-[⚔] Python
+→ Full Stack Development
 
-[⚔] React
+→ Product Building
 
-[⚔] Next.js
+→ Blockchain Technology
 
-[⚔] Node.js
+→ Startup Creation
 
-[⚔] Spring Boot
+I don't collect tutorials.
 
-[⚔] MongoDB
-
-[⚔] Aptos
-
-[⚔] Blockchain
-
-[⚔] Docker
+I build.
 ```
 
 ---
@@ -71,15 +63,15 @@ OBJECTIVE     : BUILD SOMETHING LEGENDARY
 # 🏆 ACHIEVEMENTS
 
 ```txt
-╔══════════════════════════════╗
-║ ACHIEVEMENT UNLOCKED         ║
-╚══════════════════════════════╝
+╔══════════════════════════════════════╗
+║ ACHIEVEMENT UNLOCKED                 ║
+╚══════════════════════════════════════╝
 
 🥈 Aptos Blockchain Hackathon
 
-Reward: $500
+Reward : $500
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⚛ Quantum Valley Hackathon
 
@@ -88,76 +80,117 @@ Top 5 College Finalist
 
 ---
 
-# 🏗️ BUILDS
+# ⚔ TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,firebase,oracle,docker,aws,linux,git" />
+
+</div>
+
+<br>
+
+```txt
+BLOCKCHAIN
+
+▣ Aptos
+▣ Move
+▣ Web3
+
+MOBILE
+
+▣ React Native
+▣ Expo
+
+AI / ML
+
+▣ Python
+▣ Scikit Learn
+▣ Pandas
+▣ NumPy
+```
+
+---
+
+# 🏗 BUILDS
 
 ## 🎵 AXOLOTL MUSIC NETWORK
 
 ```txt
-TYPE        : MUSIC KINGDOM
+TYPE      : MUSIC KINGDOM
 
-STATUS      : COMPLETED
+STATUS    : COMPLETED
 
-DESCRIPTION :
+Spotify-inspired music streaming platform
 
-Spotify-inspired streaming platform
+Features:
 
-with real-time features.
+• Music Streaming
 
-STACK :
+• Real-Time Activity Tracking
+
+• Queue Management
+
+• Admin Dashboard
+
+• Live User Interactions
+
+STACK:
 
 React
 Node.js
-MongoDB
 Express
+MongoDB
 Socket.io
 ```
 
 ---
 
-## ⛓️ DECENTRALIZED TIME CAPSULE
+## ⛓ DECENTRALIZED TIME CAPSULE
 
 ```txt
-TYPE        : REDSTONE MACHINE
+TYPE      : REDSTONE MACHINE
 
-STATUS      : COMPLETED
+STATUS    : COMPLETED
 
-DESCRIPTION :
+Store messages today.
 
-Store messages today
+Unlock them years later.
 
-Unlock them years later
+Powered by blockchain.
 
-on blockchain.
-
-STACK :
+STACK:
 
 Aptos
 Move
 JavaScript
 IPFS
+Wallet Integration
+
+RESULT:
+
+🥈 Aptos Hackathon Winner
 ```
 
 ---
 
-## 📱 MOBILE ADDICTION ANALYZER
+## 📱 MOBILE APP ADDICTION ANALYZER
 
 ```txt
-TYPE        : ENCHANTMENT TABLE
+TYPE      : ENCHANTMENT TABLE
 
-STATUS      : COMPLETED
+STATUS    : COMPLETED
 
-DESCRIPTION :
+Machine Learning system that predicts
+smartphone addiction patterns.
 
-Predicts smartphone addiction
-
-using machine learning.
-
-STACK :
+STACK:
 
 Python
 Scikit-Learn
 Pandas
 NumPy
+Streamlit
 ```
 
 ---
@@ -165,17 +198,13 @@ NumPy
 ## 🌊 NORTHERNSEA
 
 ```txt
-TYPE        : SOCIAL HUB
+TYPE      : SOCIAL HUB
 
-STATUS      : ACTIVE
+STATUS    : ACTIVE
 
-DESCRIPTION :
+Modern social platform inspired by Instagram.
 
-Instagram-inspired
-
-mobile social platform.
-
-STACK :
+STACK:
 
 React Native
 Expo
@@ -188,77 +217,94 @@ Firebase
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=harshavardhan2006-svg\&show_icons=true\&theme=chartreuse-dark\&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshavardhan2006-svg&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan2006-svg\&theme=chartreuse-dark\&hide_border=true)
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan2006-svg&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 EXPERIENCE BAR
+# 📈 WORLD ACTIVITY
 
-```txt
-Java            ██████████ 90%
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhan2006-svg&bg_color=0d1117&color=00ff88&line=00aaff&point=ffffff&area=true&hide_border=true"/>
 
-React           █████████░ 85%
+---
 
-Node.js         ████████░░ 80%
+# 🏆 TROPHY ROOM
 
-Blockchain      ████████░░ 80%
+<div align="center">
 
-Startup Ideas   ██████████ 100%
-```
+<img src="https://github-profile-trophy.vercel.app/?username=harshavardhan2006-svg&theme=algolia&no-frame=true&column=4"/>
+
+</div>
 
 ---
 
 # 🐍 MOB FARM
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-# 🎮 PLAYER BIO
+# 🎮 PLAYER PROFILE
 
 ```txt
-MOTIVATION :
+FAVORITE GAME
 
-Currency + Curiosity
+███╗   ███╗██╗███╗   ██╗███████╗
+████╗ ████║██║████╗  ██║██╔════╝
+██╔████╔██║██║██╔██╗ ██║█████╗
+██║╚██╔╝██║██║██║╚██╗██║██╔══╝
+██║ ╚═╝ ██║██║██║ ╚████║███████╗
+╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
 
-GOAL :
+Building Worlds.
 
-Build a company from zero
+Building Products.
 
-to millions of users.
-
-SPECIAL ABILITY :
-
-Turning random ideas
-
-into actual products.
+Same Thing.
 ```
 
 ---
 
-# 💬 NPC DIALOGUE
+# 💭 PHILOSOPHY
 
-> "The best time to build was yesterday.
->
-> The second best time is now."
+> "The best way to predict the future is to build it."
+
+---
+
+# 🎯 END GAME
+
+```txt
+[ ] Build a startup
+
+[ ] Launch products used by millions
+
+[ ] Create real impact
+
+[ ] Change my family's future
+
+[ ] Leave a mark on the internet
+```
 
 ---
 
 # 🌐 PORTALS
 
-🟩 GitHub
+### GitHub
 
 github.com/harshavardhan2006-svg
 
-🟦 LinkedIn
+### LinkedIn
 
 linkedin.com/in/harshavardhan-kondaveti2006
 
-📧 Email
+### Email
 
 [harshavardhankondaveti1@gmail.com](mailto:harshavardhankondaveti1@gmail.com)
 
@@ -266,14 +312,18 @@ linkedin.com/in/harshavardhan-kondaveti2006
 
 <div align="center">
 
-# ⛏️ KEEP MINING. KEEP BUILDING.
+```txt
+DAY 1
 
-```
-DAY 1:
 Punch Tree.
 
-DAY 1000:
+DAY 1000
+
 Build Empire.
 ```
 
+### ⛏ KEEP BUILDING.
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ff88,50:00aaff,100:0044ff"/>
