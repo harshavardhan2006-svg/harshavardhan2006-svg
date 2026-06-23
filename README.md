@@ -82,79 +82,220 @@ Top 5 College Finalist
 
 # ⚔ TECH ARSENAL
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp,react,nodejs,express,spring,mongodb,mysql,oracle,firebase,docker,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=java" width="35"/>
 
-<br><br>
+**Java**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,react" />
+</td>
 
-</div>
+<td>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="35"/>
+
+**JavaScript**
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=python" width="35"/>
+
+**Python**
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=c" width="35"/>
+
+**C**
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=cpp" width="35"/>
+
+**C++**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-```txt
-BLOCKCHAIN
+### FRONTEND
 
-▣ Aptos
+<table>
+<tr>
 
-▣ Move
-
-▣ Web3
-
-━━━━━━━━━━━━━━━━━━━━
-
-MOBILE DEVELOPMENT
-
-▣ React Native
-
-▣ Expo
-
-━━━━━━━━━━━━━━━━━━━━
-
-MACHINE LEARNING
-
-▣ Python
-
-▣ Pandas
-
-▣ NumPy
-
-▣ Scikit-Learn
-```
----
-
-# 🏗 BUILDS
-
-## 🎵 AXOLOTL MUSIC NETWORK
-
-```txt
-TYPE      : MUSIC KINGDOM
-
-STATUS    : COMPLETED
-
-Spotify-inspired music streaming platform
-
-Features:
-
-• Music Streaming
-
-• Real-Time Activity Tracking
-
-• Queue Management
-
-• Admin Dashboard
-
-• Live User Interactions
-
-STACK:
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
 React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
+Bootstrap
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+React Native
+</td>
+
+</tr>
+</table>
+
+---
+
+### BACKEND
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
 Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br>
 Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>
+Spring Boot
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="40"/><br>
+Flask
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br>
+FastAPI
+</td>
+
+</tr>
+</table>
+
+---
+
+### DATABASES
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
 MongoDB
-Socket.io
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>
+PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="40"/><br>
+Firebase
+</td>
+
+</tr>
+</table>
+
+---
+
+### BLOCKCHAIN
+
+<table>
+<tr>
+
+<td align="center">
+
+⛓️
+
+<br>
+
+Aptos
+
+</td>
+
+<td align="center">
+
+⚡
+
+<br>
+
+Move
+
+</td>
+
+<td align="center">
+
+🌐
+
+<br>
+
+Web3
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### TOOLS
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
+Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="40"/><br>
+AWS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br>
+Linux
+</td>
+
+</tr>
+</table>
 ```
 
 ---
