@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2000&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=FULLSTACK+BUILDER;BLOCKCHAIN+NATIVE;WEB3+%2B+PRODUCT+%2B+ML;PVPSIT+CSE;KEEP+BUILDING." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2000&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=FULLSTACK+BUILDER;JAVA+FSE;BLOCKCHAIN+NATIVE;WEB3+%2B+PRODUCT+%2B+ML;PVPSIT+CSE;KEEP+BUILDING." />
 
 <br/>
 
