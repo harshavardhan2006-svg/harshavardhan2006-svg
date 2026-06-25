@@ -191,16 +191,6 @@ Modern social networking platform — Instagram-inspired, mobile-first, currentl
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🎯 End Game
 
 <div align="center">
