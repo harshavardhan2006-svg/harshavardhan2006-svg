@@ -236,7 +236,7 @@ Modern social networking platform — Instagram-inspired, mobile-first, currentl
 <br/>
 
 ```
-DAY 1    →  PUNCH TREE.
+DAY 1    →  PUNCH TREE.  
 DAY 1000 →  BUILD EMPIRE.
 ```
 
